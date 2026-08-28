@@ -1,1 +1,2 @@
 Creating a new file in main but with the same name.
+Created a new file to see if the conflict occurs for a new file too.
